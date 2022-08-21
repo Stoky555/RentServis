@@ -8,19 +8,25 @@
     "button": "Zisti viac"
   },
   "About": {
-    "AboutUs": "O nás",
-    "paragraph": "Poskytujeme blablabalbalblablablalbalbla lorem impsum",
+    "AboutUs": "Kto sme?",
+    "paragraph": "Sme mladá, rozvíjajúca sa spoločnosť pôsobiaca v prenájme a predaji náradia. Naším hlavným cieľom je zákazníkovi poskytnúť rýchle, spoľahlivé a pohodlné riešenia. Tešíme sa na vzájomnú spoluprácu.",
+    "ConsHeader": "Aká výhody má prenájom náradia ?",
+    "Cons1Header": "Šetríme Vaše peniaze",
+    "Cons1": "Mnohé práce na dome, byte či záhrade zvládnete aj so základnými zručnosťami . Nie je preto potrebné si na všetko najímať predražené firmy.",
+    "Cons2": "Kvalitné a spoľahlivé náradie stojí stovky, niekedy aj tisícky eur a potrebná údržba pre správne fungovanie tiež nie je lacná.",
+    "Cons3Header": "Šetríme Váš čas",
+    "Cons3": "Nekonečné čakanie na voľné termíny stavebných firiem môžete zúžiť len na potrebné úkony s ktorými si obyčajný človek neporadí sám.",
+    "Cons4Header": "Šetríme Váš priestor",
+    "Cons4": "Mnohé potrebné náradie má nespratné rozmery a nemalú váhu.",
+    "WhyHeader": "Prečo spolupracovať s nami?",
     "Why": [
-      "Sme lacny",
-      "Sme pekny",
-      "Máme veľa času",
-      "Sme tu pre vás"
+      "Možnosť overenia dostupnosti priamo na stránke.",
+      "Profesionálne náradie značiek Makita, Lumag, Metabo.",
+      "Komplexnosť služieb - dovoz, zaškolenie, možnosť kúpy príslušenstva.",
+      "Jedinečný vernostný program."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Telefonická podpora."
     ]
   },
   "Gallery": [
@@ -73,18 +79,18 @@
   "Services": [
     {
       "icon": "fa fa-wrench",
-      "name": "Množstvo rôznych náradí",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Množstvo funkčného náradia",
+      "text": "Značkové náradie, ktoré nemusíte kupovať, skladovať a servisovať. Stačí keď nám ho donesiete funkčné a čisté. "
     },
     {
       "icon": "fa fa-truck",
-      "name": "Rýchle vybavenie vašich objednávok",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Dovoz náradia",
+      "text": "V prípade potreby Vám môžeme doviesť náradie kamkoľvek potrebujete."
     },
     {
       "icon": "fa fa-user",
-      "name": "Osobný kontakt s odborníkmi na náradia",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Brúsenie nožov a vrtákov",
+      "text": "Brúsime vaše nože aj vrtáky."
     }
   ],
   "Testimonials": [
